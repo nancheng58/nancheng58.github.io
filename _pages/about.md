@@ -48,6 +48,15 @@ Please feel free to contact me if you have any questions.
 [5] **[Enhanced generative recommendation via content and collaboration integration](https://arxiv.org/pdf/2403.18480) -  CIKM 2024 (CCF B)** 
 
 *Yidan Wang, Zhaochun Ren, Weiwei Sun, **Jiyuan Yang**, Zhixiang Liang, Xin Chen, Ruobing Xie, Su Yan, Xu Zhang, Pengjie Ren, Zhumin Chen, Xin Xin*
+
+[6] **Enhanced generative recommendation via content and collaboration integration -  SIGIR 2025 (CCF A)** 
+
+*Shiguang Wu, Zhaochun Ren, Xin Xin, **Jiyuan Yang**, Mengqi Zhang, Zhumin Chen, Maarten de Rijke, Pengjie Ren*
+
+[7] **Improving Sequential Recommenders through Counterfactual Augmentation of System Exposure -  SIGIR 2025 (CCF A)** 
+
+*Ziqi Zhao, Zhaochun Ren, **Jiyuan Yang**, Zuming Yan, Zihan Wang, Liu Yang, Pengjie Ren, Zhumin Chen, Maarten de Rijke, Xin Xin*
+
 <!-- <span class='anchor' id='project-experience'></span> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aizoo</div><img src='images/projects/aizoo.png' alt="sym" width="100%"></div></div>
