@@ -179,4 +179,4 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 # 💬 Others
 
 - Teaching Assistant: Machine Learning course (2023 Fall, 2023 Spring, 2022 Fall, 2022 Spring),  Software Engineering course (2023 Spring).
-- Academic Service: Reviewer of Information Processing & Management (IP&M), Program Committee Member of SIGIR 2024.
+- Academic Service: Reviewer (Program Committee Member) of IP&M, TKDE, TOIS, SIGIR 2024, SIGIR 2025, SIGIR-AP 2025.
