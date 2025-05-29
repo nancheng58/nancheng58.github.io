@@ -23,6 +23,22 @@ Email address: jiyuan.yang at mail.sdu.edu.cn
 
 Please feel free to contact me if you have any questions.
 
+# 📝 Repo
+
+<!-- <div class='paper-box'> -->
+
+<div class='paper-box-text' markdown="1">
+
+[Awesome-LLM4RS-Papers](https://github.com/nancheng58/Awesome-LLM4RS-Papers)  ![](https://camo.githubusercontent.com/3418ba3754faddfb88c5cbdc94c31ad670fc693c8caa59bc2806c9836acc04e4/68747470733a2f2f617765736f6d652e72652f62616467652e737667)[![](https://img.shields.io/github/stars/nancheng58/Awesome-LLM4RS-Papers?style=social&label=Code+Stars)](https://github.com/nancheng58/Awesome-LLM4RS-Papers)
+
+This is a paper list about Large Language Model-enhanced Recommender System. It also contains some related works.
+
+Keywords: recommendation system, large language models
+
+Welcome to open an issue or make a pull request!
+<!--                -->
+
+
 # 📝 Papers
 
 <!-- <div class='paper-box'> -->
@@ -40,8 +56,7 @@ Please feel free to contact me if you have any questions.
 
 ***Jiyuan Yang**, Yue Ding, Yidan Wang, Pengjie Ren, Zhumin Chen, Fei Cai, Jun Ma, Rui Zhang, Zhaochun Ren, Xin Xin*
 
-[4] **[Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation
-](https://arxiv.org/pdf/2403.16371) - preprint** \| [![](https://img.shields.io/github/stars/nancheng58/RecMamba?style=social&label=Code+Stars)](https://github.com/nancheng58/RecMamba)
+[4] **[Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation](https://arxiv.org/pdf/2403.16371) - preprint** \| [![](https://img.shields.io/github/stars/nancheng58/RecMamba?style=social&label=Code+Stars)](https://github.com/nancheng58/RecMamba)
 
 ***Jiyuan Yang**, Yuanzi Li, Jingyu Zhao, Hanbing Wang, Muyang Ma, Jun Ma, Zhaochun Ren, Mengqi Zhang, Xin Xin, Zhumin Chen, Pengjie Ren*
 
@@ -49,11 +64,11 @@ Please feel free to contact me if you have any questions.
 
 *Yidan Wang, Zhaochun Ren, Weiwei Sun, **Jiyuan Yang**, Zhixiang Liang, Xin Chen, Ruobing Xie, Su Yan, Xu Zhang, Pengjie Ren, Zhumin Chen, Xin Xin*
 
-[6] **Enhanced generative recommendation via content and collaboration integration -  SIGIR 2025 (CCF A)** 
+[6] **[Constrained Auto-Regressive Decoding Constrains Generative Retrieval](https://arxiv.org/pdf/2504.09935) -  SIGIR 2025 (CCF A)** 
 
 *Shiguang Wu, Zhaochun Ren, Xin Xin, **Jiyuan Yang**, Mengqi Zhang, Zhumin Chen, Maarten de Rijke, Pengjie Ren*
 
-[7] **Improving Sequential Recommenders through Counterfactual Augmentation of System Exposure -  SIGIR 2025 (CCF A)** 
+[7] **[Improving Sequential Recommenders through Counterfactual Augmentation of System Exposure](https://arxiv.org/pdf/2504.13482) -  SIGIR 2025 (CCF A)** 
 
 *Ziqi Zhao, Zhaochun Ren, **Jiyuan Yang**, Zuming Yan, Zihan Wang, Liu Yang, Pengjie Ren, Zhumin Chen, Maarten de Rijke, Xin Xin*
 
@@ -168,9 +183,9 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 
 # 📖 Educations
 
-- *2024.09 - Now*, PhD, Shandong University, Qingdao. (Co-Supervised by Prof. Pengjie Ren and Prof. Xin Xin.)
-- *2022.09 - 2024.08*, MSc, Shandong University, Qingdao. (Supervised by Prof. Jun Ma, co-advised by Prof. Pengjie Ren and Prof. Xin Xin.)
-- *2018.09 - 2022.06*, Bachelor, Shandong University, Qingdao. (*2018.09 - 2019.07*, Software Engineering, Shandong University, Jinan).
+- *2024.09 - Now*, PhD, Shandong University, Qingdao. (Co-Supervised by Prof. Pengjie Ren and Prof. Xin Xin)
+- *2022.09 - 2024.08*, MSc, Shandong University, Qingdao. (Supervised by Prof. Jun Ma, co-advised by Prof. Pengjie Ren and Prof. Xin Xin)
+- *2018.09 - 2022.06*, Bachelor, Computer Science, Shandong University, Qingdao. (*2018.09 - 2019.07*, Software Engineering, Shandong University, Jinan).
 
 # 💻 Internships
 
@@ -179,4 +194,4 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 # 💬 Others
 
 - Teaching Assistant: Machine Learning course (2023 Fall, 2023 Spring, 2022 Fall, 2022 Spring),  Software Engineering course (2023 Spring).
-- Academic Service: Reviewer (Program Committee Member) of IP&M, TKDE, TOIS, SIGIR 2024, SIGIR 2025, SIGIR-AP 2025.
+- Academic Service: Reviewer (Program Committee Member) of IP&M, TKDE, TOIS, SIGIR 2024, SIGIR 2025, SIGIR-AP 2025, Student Committee Member of CCIR-IR.
