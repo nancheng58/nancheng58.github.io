@@ -29,7 +29,7 @@ Please feel free to contact me if you have any questions.
 
 <div class='paper-box-text' markdown="1">
 
-[Awesome-LLM4RS-Papers](https://github.com/nancheng58/Awesome-LLM4RS-Papers)  ![](https://camo.githubusercontent.com/3418ba3754faddfb88c5cbdc94c31ad670fc693c8caa59bc2806c9836acc04e4/68747470733a2f2f617765736f6d652e72652f62616467652e737667)[![](https://img.shields.io/github/stars/nancheng58/Awesome-LLM4RS-Papers?style=social&label=Code+Stars)](https://github.com/nancheng58/Awesome-LLM4RS-Papers)
+[Awesome-LLM4RS-Papers](https://github.com/nancheng58/Awesome-LLM4RS-Papers)  ![](https://camo.githubusercontent.com/3418ba3754faddfb88c5cbdc94c31ad670fc693c8caa59bc2806c9836acc04e4/68747470733a2f2f617765736f6d652e72652f62616467652e737667)[![](https://img.shields.io/github/stars/nancheng58/Awesome-LLM4RS-Papers?style=social&label=Stars)](https://github.com/nancheng58/Awesome-LLM4RS-Papers)
 
 This is a paper list about Large Language Model-enhanced Recommender System. It also contains some related works.
 
@@ -60,7 +60,7 @@ Welcome to open an issue or make a pull request!
 
 ***Jiyuan Yang**, Yuanzi Li, Jingyu Zhao, Hanbing Wang, Muyang Ma, Jun Ma, Zhaochun Ren, Mengqi Zhang, Xin Xin, Zhumin Chen, Pengjie Ren*
 
-[5] **[Enhanced generative recommendation via content and collaboration integration](https://arxiv.org/pdf/2403.18480) -  CIKM 2024 (CCF B)** 
+[5] **[Content-Based Collaborative Generation for Recommender Systems](https://arxiv.org/pdf/2403.18480) -  CIKM 2024 (CCF B)** 
 
 *Yidan Wang, Zhaochun Ren, Weiwei Sun, **Jiyuan Yang**, Zhixiang Liang, Xin Chen, Ruobing Xie, Su Yan, Xu Zhang, Pengjie Ren, Zhumin Chen, Xin Xin*
 
